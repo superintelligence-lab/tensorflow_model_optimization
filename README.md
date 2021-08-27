@@ -12,3 +12,10 @@ In this tutorial you will:
 
 
 post_training_integer_quant.ipynb provides you with a tutorial to explore Post-Training Integer Quantization in TensorFlow.
+
+In this tutorial, you'll
+1. train an MNIST model,
+2. convert it into a Tensorflow Lite file,
+3. and quantize it using post-training quantization. 
+4. Finally, you'll check the accuracy of the converted model and
+5. compare it to the original float model.
