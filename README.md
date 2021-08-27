@@ -1,5 +1,7 @@
 # tensorflow_model_optimization
 
+This repository is part of my YouTube video on Quantization in TensorFlow (Link: https://youtu.be/JdRYjWWpXAs )
+
 This repository contains two files: quantization_aware_training.ipynb and post_training_integer_quant.ipynb
 
 quantization_aware_training.ipynb provides you with a tutorial to explore Quantization Aware Training in TensorFlow.
